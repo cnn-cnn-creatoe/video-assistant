@@ -26,6 +26,13 @@
 
 ## 环境要求（需要下载/安装）
 
+### 获取代码
+
+```bash
+git clone https://github.com/cnn-cnn-creatoe/video-assistant.git
+cd video-assistant
+```
+
 ### 必须
 
 1. Windows 10/11
