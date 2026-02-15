@@ -111,3 +111,11 @@ python .\jianying-editor-skill\scripts\auto_edit_gemini_cli.py `
 
 - 本项目不会提供任何非官方软件获取方式；请使用合规渠道安装剪映与相关工具。
 - `.gemini_cache/` 与 `logs/` 默认 gitignore，不会上传到仓库。
+
+## 致谢 / 来源
+
+本工作区的剪映草稿自动化能力基于开源社区项目做了本地集成与补充：
+
+- 上游参考：`https://github.com/luoluoluo22/jianying-editor-skill`
+
+如果你计划公开发布/商用，请先确认并遵循上游仓库的许可与署名要求。
