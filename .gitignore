@@ -1,0 +1,23 @@
+# Workspace caches / logs (do not commit)
+.gemini_cache/
+.gemini_cache_test/
+.gemini_cache_*/
+logs/
+
+# Python caches
+**/__pycache__/
+*.py[cod]
+
+# Generated sync outputs (machine-specific)
+jianying-editor-skill/data/jy_cached_audio.csv
+jianying-editor-skill/assets/jy_sync/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
